@@ -39,3 +39,10 @@ dismathportfolio-KarlaBedoya created by Classroom for GitHub
   * Simplification
   * Conjunction
   * Resolution
+
+# Week 3:
+* I learned about the different methods of proof:
+  * Direct proof is where we assume p is true and show that q is also true.
+  * Proof by contraposition where we assume ¬q is true and then show that ¬p is also true.
+  * Vacuous and Trivial Proof
+  * Proof by contradiction is where we assume ¬p is true and show that it ends up in contradiction, leading us to know that p is actually true.
