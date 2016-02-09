@@ -46,3 +46,15 @@ dismathportfolio-KarlaBedoya created by Classroom for GitHub
   * Proof by contraposition where we assume ¬q is true and then show that ¬p is also true.
   * Vacuous and Trivial Proof
   * Proof by contradiction is where we assume ¬p is true and show that it ends up in contradiction, leading us to know that p is actually true.
+
+#Week 4:
+-We discussed about another method of proving which is Proof by Equivalence. 
+  -We must show that p q and q p are both true. 
+-Another proof that I learned is Mathematical Induction. 
+  -There are two steps to use this: the basis step and the inductive step. 
+  -Direct proof is used for the inductive step. 
+-We then discussed about different definitions:
+  -Recrusive/Inductive Definition
+
+Karla Bedoya
+DISMATH EL
