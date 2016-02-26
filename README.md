@@ -55,6 +55,17 @@ dismathportfolio-KarlaBedoya created by Classroom for GitHub
   -Direct proof is used for the inductive step. 
 -We then discussed about different definitions:
   -Recrusive/Inductive Definition
+  
+#Week 5:
+-We reviewed recursive algorithms by discussing examples and doing some exercises.
+-We started on a new topic called Program Correctness.
+  -Program Verification
+    - Show that the correct answer is obtained if the programs terminates, then show that the program always terminates.
+  -Hoare Triple
+    -p(S)q
+  -We had a few examples to further understand the topic
+-Another topic discussed is Power Series
+  -
 
 Karla Bedoya
 DISMATH EL
