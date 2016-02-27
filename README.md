@@ -48,24 +48,24 @@ dismathportfolio-KarlaBedoya created by Classroom for GitHub
   * Proof by contradiction is where we assume ¬p is true and show that it ends up in contradiction, leading us to know that p is actually true.
 
 #Week 4:
--We discussed about another method of proving which is Proof by Equivalence. 
-  -We must show that p q and q p are both true. 
--Another proof that I learned is Mathematical Induction. 
-  -There are two steps to use this: the basis step and the inductive step. 
-  -Direct proof is used for the inductive step. 
--We then discussed about different definitions:
-  -Recrusive/Inductive Definition
+* We discussed about another method of proving which is Proof by Equivalence. 
+  * We must show that p q and q p are both true. 
+* Another proof that I learned is Mathematical Induction. 
+  * There are two steps to use this: the basis step and the inductive step. 
+  * Direct proof is used for the inductive step. 
+* We then discussed about different definitions:
+  * Recrusive/Inductive Definition
   
 #Week 5:
--We reviewed recursive algorithms by discussing examples and doing some exercises.
--We started on a new topic called Program Correctness.
-  -Program Verification
-    - Show that the correct answer is obtained if the programs terminates, then show that the program always terminates.
-  -Hoare Triple
-    -p(S)q
-  -We had a few examples to further understand the topic
--Another topic discussed is Power Series
-  -
+* We reviewed recursive algorithms by discussing examples and doing some exercises.
+* We started on a new topic called Program Correctness.
+  * Program Verification
+    * Show that the correct answer is obtained if the programs terminates, then show that the program always terminates.
+  * Hoare Triple
+    * p(S)q
+  * We had a few examples to further understand the topic
+* Another topic discussed is Power Series
+  
 
 Karla Bedoya
 DISMATH EL
