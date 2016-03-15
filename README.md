@@ -65,7 +65,32 @@ dismathportfolio-KarlaBedoya created by Classroom for GitHub
     * p(S)q
   * We had a few examples to further understand the topic
 * Another topic discussed is Power Series
-  
+
+#Week 6:
+* We started on a new topic which is Functions
+  * A function f is an assignent of exactly one element of B to each element A
+  * One-to-one function or injection is where you can't assign the same value to two different domain elements.
+  * Onto function or subjection is where functions have equal range and domain.
+  * One-to-one corresponence or bijective is both one-to-one and onto.
+ 
+#Week 7:
+* We did not have classes this week.
+
+#Week 8:
+* We started discussing about algorithms.
+  * Algorithm is a finite set of precise instructions for performing a computation or for solving a problem.
+  * One example of algorithm is finding the maximum value in a finite sequence. A step by step process is:
+    * Set temporary maximum equal to first integer of the sequence.
+    * Compare to the next integer in the sequence. If it is larger that the temporary max, set it to temp max.
+    * Repeat until there are no integers left in the sequence.
+* I learned about the use of pseudocode which is a description of algorithm written in the structure of a programming language but is for human reading.
+* I also learned about searching algorithms.
+  * It is the problem of locating an element in an ordered list.
+  * We discussed the two types of searching algorithms which are:
+    * Linear search
+    * Binary search
+ 
+#Week 9:
 
 Karla Bedoya
 DISMATH EL
