@@ -91,6 +91,38 @@ dismathportfolio-KarlaBedoya created by Classroom for GitHub
     * Binary search
  
 #Week 9:
+* We were introduced to different types of sorting algorithms.
+  * The first is bubble sort algorithm where it compares adjacent elements and then interchange them if they are in the wrong order.
+  * Another is Insertion sort algorithm where it inserts elements in proper order.
+* We were also taught of greedy algorithms which selects the best choice of each step instead of considering all sequences of steps.
+
+#Week 10:
+* We started discussingabout growth of functions.
+  * This is often describe using Big-O notation.
+  * Big-O notation can be used to estimate the sum of the first n positive integers, or for factorials.
+  * We also learned about big-omega and big-theta notation.
+  * Big-o is for upper bound, bog-omega is lower bound, and big theta is both upper and lower bound.
+* This week we also learned about algorithm time complexity
+  * Constant complexity
+  * Logarithmic complexity
+  * Linear complexity
+  * n log n complexity
+  * polynomial complexity
+  * exponential complexity
+  * factorial complexity
+* I learned about division and modulo
+  * this can be described with the equation a = dq + r
+
+#Week 11:
+We didn't have classes this week.
+
+#Week 12:
+* We discussed about our project for this course.
+* We started with a new topic with Graph Theory.
+* Graph is a discrete structure consisting of vertices and edges that connect them.
+  *  ◯ - vertex
+  *  ___ - edge
+
 
 Karla Bedoya
 DISMATH EL
