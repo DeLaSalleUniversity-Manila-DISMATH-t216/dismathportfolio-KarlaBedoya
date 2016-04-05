@@ -1,5 +1,9 @@
 # dismathportfolio-KarlaBedoya
 dismathportfolio-KarlaBedoya created by Classroom for GitHub
+
+Karla Bedoya
+DISMATH EL
+
 # Week 1:
 * I was intoduced to Discrete Mathematics and what we will be learning for the whole term.
 * I learned about different terms that we'll be using such as:
@@ -122,7 +126,39 @@ We didn't have classes this week.
 * Graph is a discrete structure consisting of vertices and edges that connect them.
   *  ◯ - vertex
   *  ___ - edge
+  * Some applications of graph theory could be LAN, socian networks, etc.
+* Terminologies:
+  * Degree - the number of edges connected to a vertex
+  * Subgraph - a graph that is a part of an original graph
+  * Paths - a sequence of edges that begins at a vertex of a graph and travels from vertex to vertex along edges of the graph
+* In order to easily know how many edges there is in a graph, we were introduced to the Handshaking Theorem.
+  * Twice the edges is equal to the summation of vertices times its degree.
+* Next, we  discussed about Euler paths and circuits.
+  * A graph is an euler path if there is a path passing through each edge exactly once.
+  * However, an euler circuit is somehow like an euler path, except the path must lead back to the starting point, closing the graph.
+* Having to trace each graph to know if it is an euler path or circuit can be confusing and time confusing, so we were taught an easier way to do so:
+  * If all the nodes have even degrees, then it is automatically an euler circuit.
+  * If there is exactly two nodes with odd degrees, then it is automatically an euler path.
+* There is a formula for finding how many regions there are in a graph, called Euler's formula.
+  * r = e - v + 2
+* This week, we also learned about Hamilton paths and circuits, which are like euler paths and circuits, except instead of edges, it has to pass through every vertex.
+* Unlike in euler's paths and circuits, there is no fast way to know if a graph is a hamilton path or circuit; we have to trace it manually.
+* However, we can know that a graph is not a hamilton circuit if there is a pandant. which is a node with only one degree
+* Another topic we discussed is the matrices of graphs. We can use adjacency matrix to represent connections in graphs.
+* Planar graphs are graphs that can be drawn without its edges having to cross.
+  * We can prove that a graph is not planar by Kuratowski's theorem
+  * This states that if a graph has a subgraph that is K(3,3) or K(5), then it is automatically not planar.
+
+#Week 13:
+* We started the week by discussing Coloring Graphs
+ * It can be easier understood if we treat the nodes as islands and the edges as borders.
+ * In coloring, no adjacent islands should have the same color.
+ * If the graph is planar, the maximum number of colors that can be use is 4.
+* Another topic we discussed is trees.
+* I learned that trees are connected undirected graphs with no simple circuits.
+* Terms:
+  * Internal vertices - vertices with children
+  * Leaves - vertices with no children
+  
 
 
-Karla Bedoya
-DISMATH EL
